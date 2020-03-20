@@ -12,10 +12,10 @@ Each image contains cropped image of single feather of bird, sometimes with part
 
 This repository contains the following folders:
 
-* data - contains the label file in CSV format;
+* data - contains the classes of images files in CSV format;
 * images - contains image data in JPG format, split by subdirectories of Order and Species.
 
-CSV file contains rows of the `filename`, `order` and `species` for each image.
+CSV files contains rows of the `filename`, `order` and `species` for each image. All data was split into `train_classes.csv` and `test_classes.csv` with proportions 80/20 on shuffled data.
 
 ## Licenses
 
