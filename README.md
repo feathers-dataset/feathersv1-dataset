@@ -19,5 +19,6 @@ CSV files contains rows of the `filename`, `order` and `species` for each image.
 
 ## Licenses
 
-* Please refer to the FeathersV1 Dataset [LICENSE](https://github.com/feathers-dataset/feathersv1-dataset/blob/master/LICENSE) file.
-* Some images in FeathersV1 Dataset are part of images were taken from the Scientific feather collection of Wilfried Hansen, founder of the Feather Research Group established in 1972, are licensed under the terms of the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license as long as credit is given to Wilfried Hansen and his group.
+**Disclaimer: all dataset images were taken from Internet open collections and public or private collections with the consent of the authors. Please check [AUTHORS](https://github.com/feathers-dataset/feathersv1-dataset/blob/master/AUTHORS) file for complete information about licenses and authors.**
+
+In addition please refer to the FeathersV1 Dataset [**LICENSE**](https://github.com/feathers-dataset/feathersv1-dataset/blob/master/LICENSE) file.
