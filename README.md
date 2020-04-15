@@ -25,6 +25,12 @@ We offer ready-made "frozen" CSV partitions for Species in variations:
 
 *In each case the data was shuffled and split by 80-20 for train and test.*
 
+## Implementation
+
+You can see examples of classification at:
+
+* [FeathersV1 Classification notebooks](https://github.com/feathers-dataset/feathersv1-classification)
+
 ## Licenses
 
 **Disclaimer: all dataset images were taken from Internet open collections and public or private collections with the consent of the authors. Please check [AUTHORS](https://github.com/feathers-dataset/feathersv1-dataset/blob/master/AUTHORS) file for complete information about licenses and authors.**
