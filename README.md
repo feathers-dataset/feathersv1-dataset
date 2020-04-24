@@ -2,6 +2,8 @@
 
 > Dataset for feathers classification
 
+[![arXiv](https://img.shields.io/badge/arXiv-2004.08606-b31b1b.svg)](https://arxiv.org/abs/2004.08606)
+
 The FeathersV1 Dataset contains 28,272 feather images of the web-nature. The images are collected from feather forums, public websites, and search engines.
 
 Dataset is organized in simplified taxonomic order consisting of two layers, namely Order and Species.
